@@ -11,5 +11,10 @@ namespace curso.api.Controllers
     [ApiController]
     public class UsuarioController : ControllerBase
     {
+       [HttpPost]
+       public IActionResult Logar()
+        {
+            return Created(),
+        }
     }
 }
