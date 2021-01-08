@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Http;
+﻿using curso.api.Models.Usuario;
+using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using System;
 using System.Collections.Generic;
@@ -12,9 +13,9 @@ namespace curso.api.Controllers
     public class UsuarioController : ControllerBase
     {
        [HttpPost]
-       public IActionResult Logar()
+       public IActionResult Logar(LoginViewModelInput loginViewModelInput)
         {
-            return Created(),
+            return Created("", loginViewModelInput);
         }
     }
 }
