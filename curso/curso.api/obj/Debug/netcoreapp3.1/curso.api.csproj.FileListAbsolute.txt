@@ -25,3 +25,4 @@ D:\Cursos\DotNet\backEndDotNet\curso\curso.api\bin\Debug\netcoreapp3.1\Swashbuck
 D:\Cursos\DotNet\backEndDotNet\curso\curso.api\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
 D:\Cursos\DotNet\backEndDotNet\curso\curso.api\obj\Debug\netcoreapp3.1\curso.api.MvcApplicationPartsAssemblyInfo.cs
 D:\Cursos\DotNet\backEndDotNet\curso\curso.api\obj\Debug\netcoreapp3.1\curso.api.csproj.CopyComplete
+D:\Cursos\DotNet\backEndDotNet\curso\curso.api\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Annotations.dll

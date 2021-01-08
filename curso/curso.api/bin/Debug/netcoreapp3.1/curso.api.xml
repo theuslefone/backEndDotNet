@@ -4,5 +4,12 @@
         <name>curso.api</name>
     </assembly>
     <members>
+        <member name="M:curso.api.Controllers.UsuarioController.Logar(curso.api.Models.Usuario.LoginViewModelInput)">
+            <summary>
+            teste
+            </summary>
+            <param name="loginViewModelInput"></param>
+            <returns></returns>
+        </member>
     </members>
 </doc>
