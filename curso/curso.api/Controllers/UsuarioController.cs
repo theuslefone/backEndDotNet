@@ -24,6 +24,6 @@ namespace curso.api.Controllers
         public IActionResult Registrar(RegistroViewModelInput loginViewModelInput)
         {
             return Created("", loginViewModelInput);
-        }
+        } 
     }
 }
