@@ -19,3 +19,9 @@ D:\Cursos\DotNet\backEndDotNet\curso\curso.api\obj\Debug\netcoreapp3.1\curso.api
 D:\Cursos\DotNet\backEndDotNet\curso\curso.api\obj\Debug\netcoreapp3.1\curso.api.pdb
 D:\Cursos\DotNet\backEndDotNet\curso\curso.api\obj\Debug\netcoreapp3.1\curso.api.genruntimeconfig.cache
 D:\Cursos\DotNet\backEndDotNet\curso\curso.api\bin\Debug\netcoreapp3.1\curso.api.xml
+D:\Cursos\DotNet\backEndDotNet\curso\curso.api\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+D:\Cursos\DotNet\backEndDotNet\curso\curso.api\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+D:\Cursos\DotNet\backEndDotNet\curso\curso.api\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Cursos\DotNet\backEndDotNet\curso\curso.api\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Cursos\DotNet\backEndDotNet\curso\curso.api\obj\Debug\netcoreapp3.1\curso.api.MvcApplicationPartsAssemblyInfo.cs
+D:\Cursos\DotNet\backEndDotNet\curso\curso.api\obj\Debug\netcoreapp3.1\curso.api.csproj.CopyComplete
