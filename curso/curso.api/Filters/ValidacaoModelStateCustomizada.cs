@@ -7,7 +7,7 @@ using System.Linq;
 using System.Threading.Tasks;
 
 namespace curso.api.Filters
-{
+{  
     public class ValidacaoModelStateCustomizada : ActionFilterAttribute
     {
         public override void OnActionExecuting(ActionExecutingContext context)
