@@ -18,7 +18,7 @@ namespace curso.api.Controllers
         /// Este seviço permite cadastrar curso para o usuário autenticado.
         /// </summary>
         /// <param name="cursoViewModelInput"></param>
-        /// <returns></returns>
+        /// <returns>Retorna criado</returns>
         [SwaggerResponse(statusCode: 201, description: "Sucesso ao Cadastrar o curso")]
         [SwaggerResponse(statusCode: 401, description: "Não autorizado")]
         [HttpPost]
@@ -29,6 +29,11 @@ namespace curso.api.Controllers
             var CodigoUsuario = int.Parse(User.FindFirst(c => c.Type == ClaimTypes.NameIdentifier)?.Value);
             return Created("", cursoViewModelInput);
         }
+
+        /// <summary>
+        /// Este serviço permite obter todos os cursos ativos do usuário
+        /// </summary>
+        /// <returns>Retorna status OK e dados dos curoso do usuario</returns>
         [SwaggerResponse(statusCode: 201, description: "Sucesso ao obter os cursos")]
         [SwaggerResponse(statusCode: 400, description: "Não autorizado")]
         [HttpPost]

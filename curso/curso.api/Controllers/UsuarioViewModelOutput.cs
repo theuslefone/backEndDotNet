@@ -1,5 +1,5 @@
 ﻿namespace curso.api.Controllers
-{
+{       
     internal class UsuarioViewModelOutput
     {
         public UsuarioViewModelOutput()
