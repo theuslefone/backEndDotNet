@@ -29,3 +29,10 @@ D:\Cursos\DotNet\backEndDotNet\curso\curso.api\obj\Debug\netcoreapp5.0\curso.api
 D:\Cursos\DotNet\backEndDotNet\curso\curso.api\obj\Debug\netcoreapp5.0\ref\curso.api.dll
 D:\Cursos\DotNet\backEndDotNet\curso\curso.api\obj\Debug\netcoreapp5.0\curso.api.pdb
 D:\Cursos\DotNet\backEndDotNet\curso\curso.api\obj\Debug\netcoreapp5.0\curso.api.genruntimeconfig.cache
+D:\Cursos\DotNet\backEndDotNet\curso\curso.api\bin\Debug\netcoreapp5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Cursos\DotNet\backEndDotNet\curso\curso.api\bin\Debug\netcoreapp5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Cursos\DotNet\backEndDotNet\curso\curso.api\bin\Debug\netcoreapp5.0\Microsoft.IdentityModel.Logging.dll
+D:\Cursos\DotNet\backEndDotNet\curso\curso.api\bin\Debug\netcoreapp5.0\Microsoft.IdentityModel.Protocols.dll
+D:\Cursos\DotNet\backEndDotNet\curso\curso.api\bin\Debug\netcoreapp5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Cursos\DotNet\backEndDotNet\curso\curso.api\bin\Debug\netcoreapp5.0\Microsoft.IdentityModel.Tokens.dll
+D:\Cursos\DotNet\backEndDotNet\curso\curso.api\bin\Debug\netcoreapp5.0\System.IdentityModel.Tokens.Jwt.dll
