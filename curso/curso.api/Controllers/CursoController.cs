@@ -36,7 +36,7 @@ namespace curso.api.Controllers
         /// <returns>Retorna status OK e dados dos curoso do usuario</returns>
         [SwaggerResponse(statusCode: 201, description: "Sucesso ao obter os cursos")]
         [SwaggerResponse(statusCode: 400, description: "Não autorizado")]
-        [HttpPost]
+        [HttpGet]
         [Route("")]
         public async Task<IActionResult> Get()
         {
