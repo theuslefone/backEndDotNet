@@ -19,7 +19,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Bussines\" />
+    <Folder Include="Bussines\Entites\" />
     <Folder Include="Infraestruture\" />
   </ItemGroup>
 
