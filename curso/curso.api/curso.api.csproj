@@ -20,6 +20,7 @@
 
   <ItemGroup>
     <Folder Include="Bussines\" />
+    <Folder Include="Infraestruture\" />
   </ItemGroup>
 
 
