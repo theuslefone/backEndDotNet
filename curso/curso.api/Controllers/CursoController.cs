@@ -45,7 +45,7 @@ namespace curso.api.Controllers
             var CodigoUsuario = int.Parse(User.FindFirst(c => c.Type == ClaimTypes.NameIdentifier)?.Value);
             cursos.Add(new CursoViewModelOutput() 
             {
-                Login = CodigoUsuario.ToString(),
+                Login = "Teste",
                 Descricao  = "teste",
                 Nome = "teste"
             });

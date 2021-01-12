@@ -1755,11 +1755,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Cursos\\DotNet\\backEndDotNet\\curso\\curso.api\\curso.api.csproj",
+      "projectUniqueName": "D:\\Cursos\\DIO\\backEndDotNet\\curso\\curso.api\\curso.api.csproj",
       "projectName": "curso.api",
-      "projectPath": "D:\\Cursos\\DotNet\\backEndDotNet\\curso\\curso.api\\curso.api.csproj",
+      "projectPath": "D:\\Cursos\\DIO\\backEndDotNet\\curso\\curso.api\\curso.api.csproj",
       "packagesPath": "C:\\Users\\mathe\\.nuget\\packages\\",
-      "outputPath": "D:\\Cursos\\DotNet\\backEndDotNet\\curso\\curso.api\\obj\\",
+      "outputPath": "D:\\Cursos\\DIO\\backEndDotNet\\curso\\curso.api\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\mathe\\AppData\\Roaming\\NuGet\\NuGet.Config",
