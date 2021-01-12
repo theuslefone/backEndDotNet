@@ -16,7 +16,7 @@ namespace curso.api.Infraestruture.data.Mappings
         void IEntityTypeConfiguration<Usuario>.Configure(EntityTypeBuilder<Usuario> builder)
         {
             builder.ToTable("TB_USUARIO");
-
+            builder.HasKey(p => p.Codigo);
         }
     }
 }
