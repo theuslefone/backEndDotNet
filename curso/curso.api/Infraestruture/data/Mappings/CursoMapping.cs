@@ -13,7 +13,10 @@ namespace curso.api.Infraestruture.data.Mappings
         void IEntityTypeConfiguration<Curso>.Configure(EntityTypeBuilder<Curso> builder)
         {
             builder.ToTable("TB_CURSO");
-            builder.HasKey(p => p.Codigo)
+            builder.HasKey(p => p.Codigo);
+            builder.Property(p => p.Codigo).ValueGeneratedOnAdd();
+            builder.Property(p => p.Nome);
+            builder.Property(p => p.Descrição);
         }
     }
 }
